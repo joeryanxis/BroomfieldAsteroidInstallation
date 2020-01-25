@@ -12,7 +12,7 @@ function visualization(data){
 	//background(222);
 	meteors = data
 	console.log(meteors);
-	console.log(meteors.near-earth-objects);
+	console.log(meteors.near_earth_objects);
 }
 
 function draw(){
